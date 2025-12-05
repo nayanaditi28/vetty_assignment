@@ -1,6 +1,6 @@
 # 📘 SQL Test Submission
 
-This repository contains my solutions to the SQL assessment.  
+This repository contains my solutions explaination to the SQL assessment.  
 All queries are written in **SQL Server** syntax. Screenshots are also attached.
 
 ---
