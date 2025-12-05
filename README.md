@@ -5,14 +5,6 @@ All queries are written in **SQL Server** syntax. Screenshots are also attached.
 
 ---
 
-
-## 📝 Assumptions
-- Timestamps are treated as standard `DATETIME` values (no timezone conversion).  
-- Refund eligibility = refund happens within **72 hours** of purchase.  
-- Dataset is the provided snapshot only; no external data used.
-
----
-
 ## 🔎 Brief explanation for each question
 
 ### Q1 – Count of purchases per month (excluding refunded purchases)  
@@ -56,17 +48,3 @@ Each screenshot shows the executed query and the result grid.
 
 ---
 
-## ▶️ How to run
-1. Load dataset into a SQL Server database.  
-2. Open `vetty_assignment.sql` in SQL Server Management Studio (SSMS).  
-3. Run queries and compare each result with the corresponding screenshot .
-
----
-
-## ✅ Conclusion
-This submission demonstrates:
-- SQL Server proficiency with date functions and windowing  
-- Clear, reproducible queries and documentation  
-- Screenshots showing local execution for verification
-
-Thank you for reviewing my submission.
