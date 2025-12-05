@@ -5,10 +5,6 @@ All queries are written in **SQL Server** syntax. Screenshots are also attached.
 
 ---
 
-## ⏱ Submission Note
-Please submit via GitHub. Screenshots of executed queries on a local machine are included and preferred. (Per instructions: submit within one hour of receiving the test.)
-
----
 
 ## 📝 Assumptions
 - Timestamps are treated as standard `DATETIME` values (no timezone conversion).  
