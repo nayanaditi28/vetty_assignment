@@ -3,12 +3,6 @@
 This repository contains my solutions to the SQL assessment provided.  
 All queries are written in **SQL Server** syntax, and screenshots of the executed results are included in the `results/` folder.
 
----
-
-## 📂 Contents
-- `queries.sql` – All SQL solutions for Questions 1 to 8  
-- `results/` – Screenshots of executed output for each question  
-- `README.md` – Documentation of approach and assumptions  
 
 ---
 
