@@ -63,7 +63,7 @@ Each screenshot shows both the executed SQL query and the resulting output.
 
 ## ▶️ How to Run
 1. Load the provided dataset into SQL Server.  
-2. Open `queries.sql` in SQL Server Management Studio (SSMS).  
+2. Open `vetty_assignment.sql` in SQL Server Management Studio (SSMS).  
 3. Execute queries in order and compare with screenshots for validation.
 
 ---
