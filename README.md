@@ -54,14 +54,14 @@ Used window function ranking instead of aggregate functions.
 ## 📸 Screenshot Naming Convention
 All outputs are included in the `results/` folder:
 
-- `Q1_output.png`  
-- `Q2_output.png`  
-- `Q3_output.png`  
-- `Q4_output.png`  
-- `Q5_output.png`  
-- `Q6_output.png`  
-- `Q7_output.png`  
-- `Q8_output.png`  
+- ``Q1_output.png`  
+- ``Q2_output.png`  
+- ``Q3_output.png`  
+- ``Q4_output.png`  
+- ``Q5_output.png`  
+- ``Q6_output.png`  
+- ``Q7_output.png`  
+- ``Q8_output.png`  
 
 Each screenshot shows both the executed SQL query and the resulting output.
 
